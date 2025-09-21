@@ -11,7 +11,7 @@ For this repository, I've created html templates and styling files in order to b
 - Git & Github
 
 ## Live Demo (if available)
-Live Demo [Link](https://engruugbejimmy.github.io/Opolo_Conference_Webpage/)
+Live Demo [Link](https://engruugbejimmy.github.io/fabarezdatatechventure/)
 
 ## Video Demo
 Video Introduction[Link](https://www.loom.com/share/9d7c65a1c21e4867b5cf2a77c12c010d)
@@ -41,7 +41,7 @@ Finally, run diplay the index.html file in your local browser, or also, you can 
 ## Authors
 👤 ABAH JAMES
 
-- GitHub: [@EngruugbeJimmy](https://github.com/EngruugbeJimmy)
+- GitHub: [@EngruugbeJimmy](https://github.com/fabarezdatatechventures)
 - LinkedIn: [@abah-james-ugbede](https://www.linkedin.com/in/abah-james-ugbede-356982159/)
 
 🤝 Contributinggit -vv
