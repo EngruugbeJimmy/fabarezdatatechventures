@@ -11,7 +11,7 @@ For this repository, I've created html templates and styling files in order to b
 - Git & Github
 
 ## Live Demo (if available)
-Live Demo [Link](https://engruugbejimmy.github.io/fabarezdatatechventure/)
+Live Demo [Link](https://engruugbejimmy.github.io/fabarezdatatechventures/)
 
 ## Video Demo
 Video Introduction[Link](https://www.loom.com/share/9d7c65a1c21e4867b5cf2a77c12c010d)
